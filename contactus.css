@@ -1,0 +1,74 @@
+
+.myrows{
+	border: 3px solid green;
+	padding: 5px;
+}
+.mycols{
+	border: 3px solid red;
+}
+.mycontainer{
+	background-color: aqua;
+}
+
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#bottomheader a{
+	color: white;
+}
+
+nav ul li a{
+	font-size: 1.1rem;
+	font-weight: 600;
+}
+
+/*start footer*/
+
+.full-footer{
+	background-color: #000000;
+}
+
+.top-footer p{
+	color: white;
+}
+
+.top-footer a{
+	color: white;
+}
+
+.top-footer h3{
+	color: white;
+}
+
+
+.bottom-footer p{
+	color: white;
+	font-weight: 600;
+	font-size: 0.89rem;
+}
+/* end foooter */
+
+/* home page */
+
+/*.top-hero-section {
+	background-color: #cbe8f0;
+	color: #000000;
+}
+
+.qualities-img{
+	width: 200px;
+}
+
+.req {
+	background-color: #000000;
+	color: white;
+}
+
+.userinfo{
+	width: 100px;
+  	height: 100px;
+  	margin: 0 auto;
+}

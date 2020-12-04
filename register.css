@@ -1,0 +1,92 @@
+
+.myrows{
+	border: 3px solid green;
+	padding: 5px;
+}
+.mycols{
+	border: 3px solid red;
+}
+.mycontainer{
+	background-color: aqua;
+}
+
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#bottomheader a{
+	color: white;
+}
+
+nav ul li a{
+	font-size: 1.1rem;
+	font-weight: 600;
+}
+
+/*start footer*/
+
+.full-footer{
+	background-color: #000000;
+}
+
+.top-footer p{
+	color: white;
+}
+
+.top-footer a{
+	color: white;
+}
+
+.top-footer h3{
+	color: white;
+}
+
+
+.bottom-footer p{
+	color: white;
+	font-weight: 600;
+	font-size: 0.89rem;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+form { max-width:420px; margin:50px auto; }
+
+.feedback-input {
+  color:rgb(0, 0, 0);
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid #000000;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:2px solid #000000; }
+
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background:#000000;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color:white;
+  font-size:24px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { background:#000000; }
